@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FinalProject02",
+            "request": "launch",
+            "mainClass": "FinalProject02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "IfElsecetakKRS02",
+            "request": "launch",
+            "mainClass": "jobsheet5.IfElsecetakKRS02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "ifCetakKRS02",
+            "request": "launch",
+            "mainClass": "jobsheet5.ifCetakKRS02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "nestedUjianSkripsi02",
+            "request": "launch",
+            "mainClass": "jobsheet5.nestedUjianSkripsi02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "switchCetakKRS02",
+            "request": "launch",
+            "mainClass": "jobsheet5.switchCetakKRS02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        }
+    ]
+}
