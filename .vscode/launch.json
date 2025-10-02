@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IfElseGenapGanjil",
+            "request": "launch",
+            "mainClass": "jobsheet5.IfElseGenapGanjil",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "Tugas2",
+            "request": "launch",
+            "mainClass": "jobsheet5.Tugas2",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "Tugas",
+            "request": "launch",
+            "mainClass": "jobsheet5.Tugas",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
+            "name": "IfElseGenapGanjil02",
+            "request": "launch",
+            "mainClass": "jobsheet5.IfElseGenapGanjil02",
+            "projectName": "PraktikumDaspro02_f7da2e9d"
+        },
+        {
+            "type": "java",
             "name": "ifCetakKRSNoPresensi",
             "request": "launch",
             "mainClass": "jobsheet5.ifCetakKRSNoPresensi",
